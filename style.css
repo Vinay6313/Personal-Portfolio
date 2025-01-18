@@ -177,7 +177,7 @@ span{
     background:  #e2e9f4;
 }
 
-.more-text{
+#more-text{
     color: #000;
     display: none;
 }
@@ -527,6 +527,8 @@ span{
     color: #000;
     margin-top: 1rem;
  }
+
+
 
 
  /* Responsive Design Code */
